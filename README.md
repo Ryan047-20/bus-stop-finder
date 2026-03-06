@@ -128,6 +128,6 @@ mvn spring-boot:run
 
 ##  Author
 
-**SHEMA RYAN **
+*SHEMA RYAN*
 *ID:26138*
 Adventist University of Central Africa (AUCA)
