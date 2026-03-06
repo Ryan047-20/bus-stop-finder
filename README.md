@@ -1,19 +1,19 @@
-# 🚌 Bus Stop Finder
+#  Bus Stop Finder
 
 A Spring Boot REST API designed to help commuters in Rwanda easily locate bus stops and view essential information about routes that serve each stop.
 
-## 📋 Project Overview
+##  Project Overview
 
 Bus Stop Finder addresses the problem of inaccessible public transport information by providing a centralized platform where users can quickly access bus stop details and route information.
 
-### 🎯 Target Users
+###  Target Users
 - Daily commuters
 - Students and workers using public transport
 - Visitors unfamiliar with local bus routes
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 ### Entity Relationship Diagram
 The system uses **7 database tables** with the following relationships:
@@ -34,7 +34,7 @@ The system uses **7 database tables** with the following relationships:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java 21**
 - **Spring Boot 3.3.x**
@@ -45,7 +45,7 @@ The system uses **7 database tables** with the following relationships:
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Java 21
@@ -77,7 +77,7 @@ mvn spring-boot:run
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Provinces
 | Method | Endpoint | Description |
@@ -115,7 +115,7 @@ mvn spring-boot:run
 
 ---
 
-## 📌 Key Features Implemented
+##  Key Features Implemented
 
 - ✅ **One-to-One** relationship between BusStop and Location
 - ✅ **One-to-Many** relationship between Province and Location
@@ -126,14 +126,8 @@ mvn spring-boot:run
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **SHEMA RYAN **
 *ID:26138*
-Adventist University of Central Africa (AUCA)  
-Web Technology and Internet — Midterm Project 2026
-```
-
----
-
-
+Adventist University of Central Africa (AUCA)
