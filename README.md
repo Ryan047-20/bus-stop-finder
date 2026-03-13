@@ -87,7 +87,7 @@ CREATE DATABASE busstopfinder;
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/busstopfinder
 spring.datasource.username=postgres
-spring.datasource.password=yourpassword
+spring.datasource.password=ryan
 ```
 
 4. Run the application:
