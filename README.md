@@ -24,6 +24,7 @@ The system uses **4 core tables** plus a join table:
 
 
 
+
 | Relationship | Description | Type |
 |---|---|---|
 | Location → Location | Province contains Districts, Districts contain Sectors, Sectors contain Cells, Cells contain Villages | Self-referencing One-to-Many |
