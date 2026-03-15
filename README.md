@@ -20,10 +20,7 @@ access bus stop details and route information.
 
 ### Entity Relationship Diagram
 
-The system uses **4 core tables** plus a join table:
-
-
-
+The system uses **4 core tables** plus a join table.
 
 | Relationship | Description | Type |
 |---|---|---|
